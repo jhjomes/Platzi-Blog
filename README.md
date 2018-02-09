@@ -1,2 +1,2 @@
-# Platzi-logo
+# Platzi-Blog
 Primer Proyecto Diseño Web
